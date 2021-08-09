@@ -1,5 +1,6 @@
 import { ReactNode, useContext, useMemo } from 'react'
-import { Pair } from '@uniswap/v2-sdk'
+// import { Pair } from '@uniswap/v2-sdk'
+import { Pair } from 'delioswap_test'
 import { Token } from '@uniswap/sdk-core'
 import { ThemeContext } from 'styled-components'
 import { AutoColumn } from '../../components/Column'

@@ -1,4 +1,5 @@
-import { Pair } from '@uniswap/v2-sdk'
+// import { Pair } from '@uniswap/v2-sdk'
+import { Pair } from 'delioswap_test'
 import { Currency, CurrencyAmount, Percent, Token } from '@uniswap/sdk-core'
 import { useState, useCallback, ReactNode } from 'react'
 import styled from 'styled-components/macro'
